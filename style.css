@@ -13,49 +13,49 @@ h3 {
 }
 
 .lion {
-  background-image:url('../images/lion.png');
+  background-image:url('lion.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .eagle {
-  background-image:url('../images/eagle.png');
+  background-image:url('eagle.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .wolf {
-  background-image:url('../images/wolf.png');
+  background-image:url('wolf.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .chicken {
-  background-image:url('../images/chicken.png');
+  background-image:url('chicken.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .cheetah {
-  background-image:url('../images/cheetah.png');
+  background-image:url('cheetah.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .mockingbird {
-  background-image:url('../images/mockingbird.png');
+  background-image:url('mockingbird.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .giraffe {
-  background-image:url('../images/giraffe.png');
+  background-image:url('giraffe.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .elephant {
-  background-image:url('../images/elephant.png');
+  background-image:url('elephant.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
