@@ -1,0 +1,86 @@
+body {
+  text-align: center;
+  background-color: #FFF8E8;
+}
+
+h1 {
+  font-family: 'Smoocha', cursive;
+  color: #7B904B;
+}
+
+h3 {
+  color: #7B904B;
+}
+
+.lion {
+  background-image:url('../images/lion.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.eagle {
+  background-image:url('../images/eagle.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.wolf {
+  background-image:url('../images/wolf.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.chicken {
+  background-image:url('../images/chicken.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.cheetah {
+  background-image:url('../images/cheetah.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.mockingbird {
+  background-image:url('../images/mockingbird.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.giraffe {
+  background-image:url('../images/giraffe.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.elephant {
+  background-image:url('../images/elephant.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+.animal {
+  outline: none;
+  border: 1px solid #404B69;
+  font-size: 1.5em;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  cursor: pointer;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.2);
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.animal:hover {
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.5);
+}
